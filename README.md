@@ -8,9 +8,9 @@ Horiseon was build to help the business to dominance the search engine, and crea
  * Horiseon service will decrease your advertising costs while your raking search increse and no need to advertise your web after reaching a ranking search.
 
 ### Horiseon's web.
-* Horiseon Main services
+### Horiseon Main services
 ![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/horiseonmain.png)
 ![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/services.png)
 
-* Horiseon benefits
-*![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/benefits.png)
+### Horiseon benefits
+![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/benefits.png)
