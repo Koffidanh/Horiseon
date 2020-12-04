@@ -1,7 +1,7 @@
 ![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/logos.png)
 # HORISEON  
 This is the repository for Horiseon. Horiseon is Online Digital marketing service providing a great search engine optimization, online reputation Management and social media marketing to business. This service is opened to any users (anyone) with exiting business or thinking opening a future business.
-Horiseon was build to help the business to dominance the search engine, and create a reputation online with its users. [GitHub](https://koffidanh.github.io/Horiseon/)
+Horiseon was build to help the business to dominance the search engine, and create a reputation online with its users. [Horiseon](https://koffidanh.github.io/Horiseon/)
 ## Horiseon srevice:
  * Horiseon service will improve your business strategies by requiring less work from your business and bringing customers directly to your website.
  * Horiseon service will find your business through paid and organic search. This will increase the search ranking and visibility of your business.
