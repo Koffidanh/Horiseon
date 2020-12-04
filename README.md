@@ -13,4 +13,4 @@ Horiseon was build to help the business to dominance the search engine, and crea
 ![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/services.png)
 
 * Horiseon benefits
-![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/benefits.png)
+*![Horiseon](https://github.com/Koffidanh/Horiseon/blob/main/assets/images/benefits.png)
