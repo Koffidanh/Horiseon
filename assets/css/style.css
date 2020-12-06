@@ -93,15 +93,15 @@ h2 {
 /* Hero BACKGROUND IMAGE */
 
 #imag {
-    height: 900px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    position: relative;
     background-repeat: no-repeat;
     overflow: hidden;
-    
+    display: block;
+    object-fit: cover;
 }
 
 /* SERVICES SECTIONS */
@@ -185,6 +185,7 @@ h2 {
 /* BENEFITS ASIDE */
 
 #benefits {
+    clear: both;
     margin-right: 20px;
     padding: 20px;
     padding-bottom: 12px;
