@@ -30,17 +30,20 @@ body {
 }
 
 .header {
-    width: 46%;
+    width: 875.4px;
     background-color: #2a607c;
     padding: 20px;
     float: left;
     
    
 }
+#nav {
+    width: 100%;
+    background-color: #2a607c;
+}
 
-
-#right {
-    float: right;
+.right {
+    float: left;
     display: inline-block;
     background-color: #2a607c;
     width: 16%; 
@@ -48,7 +51,7 @@ body {
     height: 88px; 
 }    
 
-#middle {
+.middle {
     float: left; 
     display: inline-block;
     background-color: #2a607c;
@@ -58,7 +61,7 @@ body {
 }
 
 
-#left {
+.left {
     float: left;
     display: inline-block;
     background-color: #2a607c;
